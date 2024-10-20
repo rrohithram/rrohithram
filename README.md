@@ -1,3 +1,19 @@
+<style>
+  .pfp{
+    border-radius: 50%;
+  }
+</style>
+
+<div align="center" id=pfp>
+  <img height="150" src="https://avatars.githubusercontent.com/u/94801025?v=4"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrohithram.rrohithram&"  />
+</div>
+
 <h1 align="left">Hey 👋 What's poppin?</h1>
 
 ###
