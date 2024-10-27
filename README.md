@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently improving my Flutter Skills<br>🎯 Goals: Would like start React Native before the end of the year 🙃<br>🎲 Fun fact: I use light mode in VSC 😉</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently improving my Flutter Skills<br>🎯 Goals: Would like start React and React Native before the end of the year 🙃<br>🎲 Fun fact: I use light mode in VSC 😉</p>
 
 ###
 
