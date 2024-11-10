@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rohith and I'm an aspiring frontend developer, Linux enthusiast from Coimbatore, India! 🌟✨</p>
+<p align="left">I'm Rohith and I'm an aspiring frontend developer, Linux enthusiast from Coimbatore, India! :D 🌟✨</p>
 
 ###
 
