@@ -1,4 +1,4 @@
-# yo, i'm rohith ram.
+# hey, i'm rohith.
 
 <div align="center">
 
@@ -65,31 +65,13 @@ Most of my work lives somewhere between **frontend engineering, AI, and aggressi
 
 ---
 
-## `things i've built`
-
-### ♿ AI Guide for the Visually Impaired
-
-A computer-vision based assistant combining **OCR, object detection, text-to-speech, GPS and navigation** to help visually impaired users understand and navigate their surroundings.
-
-### ❤️ HeartBeat
-
-A healthcare-focused mobile application built around **Flutter, Firebase, ML and health-data integrations**.
-
-### 📚 CourseBuddy
-
-An AI-assisted learning platform that generates **personalized roadmaps, course paths and learning plans**.
-
-### 🗂️ File System Recovery Tool
-
-A utility focused on recovering and working with filesystem data when shit goes sideways.
-
-### 🤖 random hackathon madness
+### random hackathon madness
 
 AI agents, accessibility tools, automation, environmental-awareness apps and approximately 900 ideas that sounded genius at 2 AM.
 
 ---
 
-## `currently.exe`
+## `currently`
 
 ```txt
 [████████████████░░░░]  80%   DSA
@@ -103,15 +85,6 @@ Currently getting deeper into:
 
 `System Design` · `DSA` · `AI Agents` · `Computer Vision` · `Backend Architecture`
 
----
-
-## `github stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rrohithram&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohithram&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -154,7 +127,7 @@ I'm always interested in projects around:
 
 <div align="center">
 
-### `ship something cool.`
+### `make something worth pushing.`
 
 <br/>
 
