@@ -1,76 +1,164 @@
-# Hey, I'm Rohith Ram 👋
-
-I'm a Computer Science student at **SRM Institute of Science and Technology**, Chennai, and a frontend developer who enjoys turning weird ideas into things that actually work.
-
-I spend most of my time building interfaces, experimenting with AI, breaking shit, fixing it, and occasionally wondering why I chose Java.
-
-## About Me
-
-* Computer Science student @ **SRMIST**
-* Frontend-focused developer
-* Building with **React, Vite, JavaScript, Flutter & Dart**
-* Interested in **AI, accessibility, developer tools, and product design**
-* Aviation nerd who will absolutely overthink an IFR route
-* Occasionally found yelling at code that worked five minutes ago
-
-## Tech Stack
-
-### Frontend
-
-`React` `JavaScript` `TypeScript` `Vite` `HTML` `CSS` `Sass` `Tailwind CSS` `Material UI`
-
-### Mobile
-
-`Flutter` `Dart`
-
-### Backend & Data
-
-`Node.js` `Laravel` `Firebase` `PostgreSQL` `REST APIs`
-
-### AI / ML
-
-`OpenRouter` `DeepSeek` `YOLO` `TensorFlow Lite` `Google ML Kit`
-
-### Tools
-
-`Git` `GitHub` `Figma` `VS Code` `Linux`
-
-## What I Build
-
-I like working on projects where software does something useful instead of just looking pretty.
-
-Some stuff I've worked on:
-
-* **AI Guide for Visually Impaired** — computer vision + OCR + text-to-speech + navigation assistance
-* **HeartBeat** — healthcare-focused mobile application with Firebase, ML and health-data integrations
-* **CourseBuddy** — AI-assisted learning and roadmap generation
-* **File System Recovery Tool** — recovery and filesystem-focused utility
-* Various hackathon projects involving **AI, accessibility, automation and web apps**
-
-## Currently Learning
-
-`System Design` · `Data Structures & Algorithms` · `Backend Architecture` · `AI Agents` · `Computer Vision`
-
-## GitHub Stats
+# yo, i'm rohith ram.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrohithram&show_icons=true&hide_border=true&theme=transparent" />
+### frontend dev · cs student · occasional overengineer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohithram&layout=compact&hide_border=true&theme=transparent" />
+<p>
+  <a href="https://github.com/rrohithram">
+    <img src="https://img.shields.io/badge/GitHub-rrohithram-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rohithram-r">
+    <img src="https://img.shields.io/badge/LinkedIn-rohithram--r-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
-## Let's Build Something Cool
+---
 
-I'm interested in collaborating on projects involving:
+## `whoami`
 
-**AI · Accessibility · Developer Tools · Frontend · Open Source · Automation**
+```js
+const rohith = {
+  education: "CSE @ SRMIST, Chennai",
+  role: "Frontend Developer",
+  interests: [
+    "AI",
+    "Accessibility",
+    "Developer Tools",
+    "Product Design",
+    "Automation"
+  ],
+  currentlyBuilding: "things I probably shouldn't be building at 3 AM",
+  motto: "make it work → make it clean → ship the damn thing"
+};
+```
 
-> Build it. Break it. Fix it. Ship it.
+I like building products that **feel good to use** and actually solve a problem.
+
+Most of my work lives somewhere between **frontend engineering, AI, and aggressively overthinking product UX**.
 
 ---
 
-### Connect
+## `stack`
 
-[GitHub](https://github.com/rrohithram) · [LinkedIn](https://linkedin.com/in/rohithram-r) · [Portfolio](https://tinyurl.com/rohithram)
+### frontend
+
+![React](https://skillicons.dev/icons?i=react,js,ts,vite,html,css,tailwind,sass)
+
+### mobile
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+
+### backend / data
+
+![Node.js](https://skillicons.dev/icons?i=nodejs,laravel,firebase,postgres)
+
+### tools & infra
+
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,linux)
+
+### AI / ML
+
+`OpenRouter` · `DeepSeek` · `YOLO` · `TensorFlow Lite` · `Google ML Kit`
+
+---
+
+## `things i've built`
+
+### ♿ AI Guide for the Visually Impaired
+
+A computer-vision based assistant combining **OCR, object detection, text-to-speech, GPS and navigation** to help visually impaired users understand and navigate their surroundings.
+
+### ❤️ HeartBeat
+
+A healthcare-focused mobile application built around **Flutter, Firebase, ML and health-data integrations**.
+
+### 📚 CourseBuddy
+
+An AI-assisted learning platform that generates **personalized roadmaps, course paths and learning plans**.
+
+### 🗂️ File System Recovery Tool
+
+A utility focused on recovering and working with filesystem data when shit goes sideways.
+
+### 🤖 random hackathon madness
+
+AI agents, accessibility tools, automation, environmental-awareness apps and approximately 900 ideas that sounded genius at 2 AM.
+
+---
+
+## `currently.exe`
+
+```txt
+[████████████████░░░░]  80%   DSA
+[██████████████░░░░░░]  70%   System Design
+[███████████████░░░░░]  75%   AI / Agents
+[█████████████████░░░]  85%   Frontend
+[███████████████████░]  95%   Overengineering
+```
+
+Currently getting deeper into:
+
+`System Design` · `DSA` · `AI Agents` · `Computer Vision` · `Backend Architecture`
+
+---
+
+## `github stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rrohithram&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrohithram&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## `contributions`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rrohithram&hide_border=true&theme=github-compact" width="95%"/>
+
+</div>
+
+---
+
+## `a few things about me`
+
+```txt
+→ frontend is where i live
+→ i like building weird shit
+→ accessibility > "we'll add it later"
+→ yes, i will redesign the UI again
+→ yes, the backend is probably minimal
+→ yes, i will absolutely spend 4 hours fixing 1px of padding
+→ aviation nerd ✈
+→ caffeine is a build dependency
+```
+
+---
+
+## `let's build`
+
+Got a weird idea?
+
+**Good.**
+
+I'm always interested in projects around:
+
+**AI · Accessibility · Open Source · Developer Tools · Automation · Frontend**
+
+<div align="center">
+
+### `ship something cool.`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-rrohithram-181717?style=for-the-badge\&logo=github)](https://github.com/rrohithram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohithram--r-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/rohithram-r)
+
+</div>
